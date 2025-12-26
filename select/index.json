@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "17才",
+  "base_artist": "Harukatomiyuki",
+  "createdAt": "2025-12-26T07:30:29.897640Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "17才",
+      "artist": "GING NANG BOYZ",
+      "has_synced": false,
+      "path": "select/01_17才_GING_NANG_BOYZ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "17才",
+      "artist": "銀杏BOYZ",
+      "has_synced": false,
+      "path": "select/02_17才_銀杏BOYZ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "17 Sai [17才]",
+      "artist": "Ging Nang BOYZ",
+      "has_synced": false,
+      "path": "select/03_17_Sai_[17才]_Ging_Nang_BOYZ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "17才",
+      "artist": "Harukatomiyuki",
+      "has_synced": true,
+      "path": "select/04_17才_Harukatomiyuki.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "17才",
+      "artist": "ハルカトミユキ",
+      "has_synced": true,
+      "path": "select/05_17才_ハルカトミユキ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "17才 (Piano ver.)",
+      "artist": "ハルカトミユキ",
+      "has_synced": true,
+      "path": "select/06_17才_(Piano_ver.)_ハルカトミユキ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "17才 (200曲セルフカヴァーVer.)",
+      "artist": "Moritaka Chisato",
+      "has_synced": false,
+      "path": "select/07_17才_(200曲セルフカヴァーVer.)_Moritaka_Chisato.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "17才",
+      "artist": "森高千里",
+      "has_synced": true,
+      "path": "select/08_17才_森高千里.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "17才",
+      "artist": "Moritaka, Chisato",
+      "has_synced": true,
+      "path": "select/09_17才_Moritaka,_Chisato.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "17才",
+      "artist": "Everlasting Sounds",
+      "has_synced": false,
+      "path": "select/10_17才_Everlasting_Sounds.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "17才",
+      "artist": "YUKI",
+      "has_synced": false,
+      "path": "select/11_17才_YUKI.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "17才",
+      "artist": "Base Ball Bear",
+      "has_synced": true,
+      "path": "select/12_17才_Base_Ball_Bear.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "17才",
+      "artist": "Base Ball Bear",
+      "has_synced": false,
+      "path": "select/13_17才_Base_Ball_Bear.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "17才",
+      "artist": "ハルカトミユキ",
+      "has_synced": true,
+      "path": "select/14_17才_ハルカトミユキ.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "17才",
+      "artist": "Chisato Moritaka",
+      "has_synced": true,
+      "path": "select/15_17才_Chisato_Moritaka.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "17才（オレンジミックス）",
+      "artist": "Chisato Moritaka",
+      "has_synced": false,
+      "path": "select/16_17才(オレンジミックス)_Chisato_Moritaka.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "17才",
+      "artist": "ハルカトミユキ",
+      "has_synced": true,
+      "path": "select/17_17才_ハルカトミユキ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "17才",
+      "artist": "ハルカトミユキ",
+      "has_synced": false,
+      "path": "select/pl_01_17才_ハルカトミユキ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "17才",
+      "artist": "ハルカトミユキ",
+      "has_synced": false,
+      "path": "select/pl_02_17才_ハルカトミユキ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "17才",
+      "artist": "ハルカトミユキ",
+      "has_synced": false,
+      "path": "select/pl_03_17才_ハルカトミユキ.txt"
+    }
+  ]
+}
